@@ -1,0 +1,12 @@
+{
+    "name": "play-notion",
+    "type": "module",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "@notionhq/client": "^1.0.1",
+        "dotenv": "^16.0.0",
+        "path": "^0.12.7"
+    }
+}
